@@ -1,0 +1,6 @@
+/*--user=inception;--password=inception;--host=172.16.169.131;--enable-check;--port=3306;--enable-remote-backup;*/
+inception_magic_start;
+set names utf8mb4;
+use test;
+delete from shadow;
+inception_magic_commit;
