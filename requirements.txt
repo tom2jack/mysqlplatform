@@ -1,7 +1,7 @@
 #python==2.7
 bcrypt==3.1.7
 cffi==1.14.0
-cryptography==2.9.1
+cryptography==3.2
 Django==1.11.28
 django-pure-pagination==0.3.0
 enum34==1.1.10
